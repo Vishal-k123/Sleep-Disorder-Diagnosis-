@@ -1,0 +1,3 @@
+Run the Project on Anaconda Prompt
+ step1 : cd C:\Users\rahir\Downloads\Project
+stept2 : streamlit run sleep_disorder_diagnosis_ml.py
